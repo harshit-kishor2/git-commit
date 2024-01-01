@@ -1,6 +1,6 @@
 {
   "name": "@harshitkishor/git-commit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Git commit message validator and formatter package by Harshit Kishor.",
   "main": "index.js",
   "scripts": {
