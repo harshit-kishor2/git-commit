@@ -1,0 +1,38 @@
+{
+  "name": "@harshitkishor/git-commit",
+  "version": "1.0.0",
+  "description": "A Git commit message validator and formatter package by Harshit Kishor.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node cli.js",
+    "postinstall": "node ./script/postinstall"
+  },
+  "bin": {
+    "harshit": "./cli.js"
+  },
+  "author": "Harshit Kishor",
+  "license": "ISC",
+  "dependencies": {
+    "find-config": "^1.0.0",
+    "inquirer": "^8.2.6",
+    "inquirer-search-list": "^1.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshit-kishor2/git-commit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harshit-kishor2/git-commit/issues"
+  },
+  "homepage": "https://github.com/harshit-kishor2/git-commit#readme",
+  "keywords": [
+    "git",
+    "validation",
+    "github",
+    "git prompt",
+    "hook",
+    "commit",
+    "git commit",
+    "message"
+  ]
+}

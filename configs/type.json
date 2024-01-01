@@ -1,0 +1,20 @@
+[
+  { "value": "ADD", "name": "ADD:      Adding new files or functionality" },
+  { "value": "UPDATE", "name": "UPDATE:   An update to existing functionality" },
+  { "value": "CHANGE", "name": "CHANGE:   A general change" },
+  { "value": "FIX", "name": "FIX:      A bug fix" },
+  { "value": "FEAT", "name": "FEAT:     A new feature" },
+  { "value": "STYLE", "name": "STYLE:    Changes that do not affect the meaning of the code" },
+  { "value": "WIP", "name": "WIP:      Work in progress" },
+  { "value": "NONE", "name": "NONE:     No specific type" },
+  {
+    "value": "CHORE",
+    "name": "CHORE:    Changes to the build process or auxiliary tools\n            and libraries such as documentation generation"
+  },
+  {
+    "value": "REFACTOR",
+    "name": "REFACTOR: A code change that neither fixes a bug nor adds a feature"
+  },
+  { "value": "DOC", "name": "DOC:      Documentation only changes" },
+  { "value": "TEST", "name": "TEST:     Adding or modifying tests" }
+]

@@ -1,0 +1,18 @@
+{
+  "typePrefix": "[",
+  "typeSuffix": "]",
+  "typeSeparator": ":",
+  "titleLimit": 100,
+  "titleFirstLetterCapital": true,
+  "spaceBeforeTitle": true,
+  "allowTicketID": true,
+  "isTicketIDRequired": false,
+  "ticketIDPrefix": "TICKET-",
+  "ticketIDRegExp": "^\\d{1,5}$",
+  "ticketOpenPrefix": "[",
+  "ticketCloseSuffix": "]",
+  "ticketSeparator": ":",
+  "ticketIDBeforeType": true,
+  "isEmojiEnable": true,
+  "emojiAtEndOfCommit": true
+}
